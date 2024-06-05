@@ -9,7 +9,9 @@ GET запрос был необходим для:
   <img src="https://github.com/1FADGER1/WebAPI/assets/68035027/ecc1b9d3-24af-444f-b26f-9fcd1f05c544" alt="image2">
 </p>
 - для работы с API VK
+
 ![image](https://github.com/1FADGER1/WebAPI/assets/68035027/5327781d-9bce-4310-a7a0-9004879417f0)
+
 - для вывода информации о погоде (она генерируется рандомно)
 <p align="center">
   <img src="https://github.com/1FADGER1/WebAPI/assets/68035027/056f80c5-1892-4883-9439-bed6a43b1755" alt="image3">
