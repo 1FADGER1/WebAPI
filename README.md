@@ -12,7 +12,7 @@ GET запрос был необходим для:
 - для работы с API VK
 <p align="center"><img src="https://github.com/1FADGER1/WebAPI/assets/68035027/5327781d-9bce-4310-a7a0-9004879417f0" alt="image3" height="150"></p>
 
-- для вывода информации о погоде (она генерируется рандомно)
+- для вывода информации о погоде (он работате с этим [API](https://github.com/public-apis/public-apis/tree/master))
 <p align="center">
   <img src="https://github.com/1FADGER1/WebAPI/assets/68035027/27902f0d-2536-407a-bc9d-c8e83fb036e6" alt="image1" height="150">
   <img src="https://github.com/1FADGER1/WebAPI/assets/68035027/67de2adc-e10d-437d-ae9b-6b0510a245e5" alt="image2" height="150">
